@@ -1,0 +1,15 @@
+# Conversion to YAML from Properties formar report
+# Warnings:
+# - The yaml file had comments which are lost in the refactoring!
+spring:
+  application:
+    name: BootProj05-ValueAnnotation-SPEL
+ds:
+  xrayRate: 3000
+  mriRate: 5000
+  ctscanRate: 6000
+  bpRate: 300
+  diabeticRate: 6000
+  twoDRate: 5000
+dc:
+  addrs: hyd

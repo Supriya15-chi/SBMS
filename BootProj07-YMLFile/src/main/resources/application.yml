@@ -1,0 +1,13 @@
+# custom yml file configuration
+spring: 
+  config:
+     import: info.yml 
+
+#Employees information
+emp:
+   info: 
+     name: "raja"
+     addrs: "hyd"
+     id: 4001
+     qualification: "B.E"
+     mobile-no: 99999999
